@@ -1,4 +1,4 @@
-
+task.wait(90)
 local function ClickPlay()
     local Players = game:GetService("Players")
     local LocalPlayer = Players.LocalPlayer
